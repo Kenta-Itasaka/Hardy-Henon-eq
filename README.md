@@ -1,1 +1,1 @@
-"# Hardy-Henon-eq" 
+# Hardy-Henon-eq
